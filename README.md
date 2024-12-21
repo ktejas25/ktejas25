@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ktejas25
-- 👀 I’m interested in ...programming languages
-- 🌱 I’m currently learning ...C++ and node js
+- 👀 I’m interested in ...programming languages as html,css and js, nodejs,mysql workbench
+- 🌱 I’m currently learning ...ReactJS
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
